@@ -9,6 +9,8 @@ IDE               : Processing 3.0a5 ( 16 November 2014 )
 
 IDE Download Link : https://processing.org/download/?processing
 
+EXE for Windows 32: http://www.mediafire.com/download/5qsfq1m95sd6nsi/application.windows32.rar
+
 Before Running the Code:
 ========================
 1. Make sure that your USB device which will receive the String data is connected to the pc.
