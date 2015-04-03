@@ -5,6 +5,10 @@ What is this repo all about ?
 This repository contains all processing code for the software/.exe file that sends String type data to Serial Port.
 This software is made with the sole purpose of helping Arduino Users in case they cannot use their Arduino IDE/Serial monitor of the Arduino IDE.
 
+IDE               : Processing 3.0a5 ( 16 November 2014 )
+
+IDE Download Link : https://processing.org/download/?processing
+
 Before Running the Code:
 ========================
 1. Make sure that your USB device which will receive the String data is connected to the pc.
