@@ -15,3 +15,14 @@ INSTRUCTIONS
 1. If you are running the code, make sure to first click on the new applet that appears before inputting data.
 2. Enter the data. It will be accepted in String data type so all keyboard characters are valid.
 3. Hit Enter.
+
+PLATFORMS
+=========
+The software will work on the following platforms:
+
+1. Windows 32Bit
+2. Windows 64Bit
+3. Linux   32Bit
+4. Linux   64Bit
+
+Separate .exe files are there in their respective folders.
