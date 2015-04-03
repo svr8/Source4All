@@ -24,5 +24,5 @@ The software will work on the following platforms:
 2. Windows 64Bit
 3. Linux   32Bit
 4. Linux   64Bit
-LETS TEST IT OUT
+
 Separate .exe files are there in their respective folders.
